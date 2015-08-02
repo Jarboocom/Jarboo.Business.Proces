@@ -13,13 +13,16 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - C_: Converting a lead into an opportunity
 	 - C_: Follow-up on an opportunity
  - Project
-	 - Starting up a project
-		 - [C_20.1.1 - Checklist on starting a project](C_20.1.1 - Checklist on starting a project.md)
-	     - Contract
-	     - Risk analysis
-	 - Project types
+ 	 - Project types
 		 - Projects
 		 - Continuous development
+	 - Starting up a project
+		 - [C_20.1.1 - Checklist on starting a project](C_20.1.1 - Checklist on starting a project.md)
+	     - Contracts
+	     	-	Contract for projects
+	     	-	Contract for contious development
+	     - Risk analysis
+
  - Tasks
 	 - Task lifecycle
 	 - Phases
@@ -38,10 +41,20 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 
 **[F]reelancers**
 
+ - [F_1.0 - Description of freelancer lifecycle](F_1.0-Description of freelancer lifecycle.md)
  - Finding a resource
  	- Where to find new resources?
  		- Upwork job template
  	- Selection of a resource
+ 		- Technology questions for new freelancers
+ 			- Android
+ 			- ASP.NET / .NET
+			- iOS 
+			- Joomla
+			- PHP
+ 			- Ruby on Rails
+ 			- Wordpress
+ 		- Selection on UpWork
  	- Checklist question for new resources
  - Training of resource
 	 - Introduction to Jarboo
