@@ -16,13 +16,15 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	 - Project types
 		 - Projects
 		 - Continuous development
-	 - Starting up a project
-		 - [C_20.1.1 - Checklist on starting a project](C_20.1.1 - Checklist on starting a project.md)
-	     - Contracts
+	 - Starting up a new project
+		 - Contracts
 	     	-	[Contract for projects](https://docs.google.com/document/d/1yzMxFjNmyVuYvhjKl9JAPY5PJw4uyfa0z6Y3TBnjVv4/edit)
 	     	-	[Contract for contious development](https://docs.google.com/document/d/1ODO_nuN6ugVhr4OOV9h7zHePRFlIFVJHrzA2pAhWgJw/edit)
 	     - [Risk analysis](https://docs.google.com/a/jarboo.com/spreadsheets/d/1rmwNK6t1gWMZjQQYN62aaZx6XJ46Ic22HKD3AyHuaIQ/edit?usp=drive_web)
-
+	  - Setup the team
+	  	 - The team database
+	  - Start working on a project
+	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
  - Tasks
 	 - Task lifecycle
 	 - Estimation
