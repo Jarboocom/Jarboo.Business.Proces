@@ -5,7 +5,7 @@ Process document at Jarboo
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
  - Customer lifecycle
-	 - C_1.0: Description of customer lifecycle
+	 - [a link](C_1.0-Description of customer lifecycle.md)
  - Leads
 	 - A new lead
 	 - C_: Follow-up on a lead
