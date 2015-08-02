@@ -7,13 +7,14 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Customer lifecycle
 	 - [C_1.0 - Description of customer lifecycle](C_1.0-Description of customer lifecycle.md)
  - Leads
-	 - A new lead
+	 - C_: Registering a new lead
 	 - C_: Follow-up on a lead
  - Opportunities
-	 - C_: A new opportunity
+	 - C_: Converting a lead into an opportunity
+	 - C_: Follow-up on an opportunity
  - Project
 	 - Starting up a project
-		 - Checklist on starting
+		 - [C_20.1.1 - Checklist on starting a project](C_20.1.1 - Checklist on starting a project.md)
 	     - Contract
 	     - Risk analysis
 	 - Project types
@@ -39,8 +40,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 
  - Finding a resource
  	- Where to find new resources?
+ 		- Upwork job template
  	- Selection of a resource
- 	- Checklist with new resources
+ 	- Checklist question for new resources
  - Training of resource
 	 - Introduction to Jarboo
 	 - Introduction to workflow
