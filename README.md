@@ -44,11 +44,12 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - [F_1.0 - Description of freelancer lifecycle](F_1.0-Description of freelancer lifecycle.md)
  - Finding a resource
  	- Where to find new resources?
- 		- Upwork job template
+ 		- [F_5.1.1 - Platforms we look for new talent](F_5.1.1 - Platforms we look for new talent.md)
+ 		- [F_5.1.2 - Upwork job template](F_5.1.2 - Upwork job template.md)
  	- Selection of a resource
  		- Technology questions for new freelancers
  			- Android
- 			- ASP.NET / .NET
+ 			- ASP.NET / C# / .NET
 			- iOS 
 			- Joomla
 			- PHP
