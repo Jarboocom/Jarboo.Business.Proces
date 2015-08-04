@@ -62,7 +62,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- Selection on UpWork
  	- Checklist question for new resources
  - Training of resource
-	 - Introduction to Jarboo
+	 - [F_15.1.1 - Introduction to Jarboo](F_15.1.1 - Introduction to Jarboo.md)
 	 - Introduction to workflow
 	 - Introduction to project
 	 - First work
