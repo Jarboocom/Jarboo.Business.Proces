@@ -69,5 +69,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 
 **[E]mployees**
 
+- Description of an employee lifecycle
+- New employee
+	- [E_5.1.1 - Checklists for sales and project managers](E_5.1.1 - Checklists for sales and project managers.md)
+
 - Contracts
 	-	Contract for international hires
