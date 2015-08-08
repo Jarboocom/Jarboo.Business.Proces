@@ -24,7 +24,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	      - Setup the team
 	  	     - C_15.1.1 - How to setup a team
 	  	     - [C_15.1.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
-	  - Start working on a project
+	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
  - Tasks
 	 - Task lifecycle
@@ -66,6 +66,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - [F_15.1.1 - Introduction to Jarboo](F_15.1.1 - Introduction to Jarboo.md)
 	 - Introduction to workflow
 	 - Introduction to project
+	 - Introduction to subversion flow
 	 - First work
 
 **[E]mployees**
