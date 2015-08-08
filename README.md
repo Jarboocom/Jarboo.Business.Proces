@@ -10,7 +10,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - C_: Registering a new lead
 	 - C_: Follow-up on a lead
  - Opportunities
-	 - C_: Converting a lead into an opportunity
+	 - C_: Converting a lead into an opportunity 
 	 - C_: Follow-up on an opportunity
  - Project
  	 - Project types
