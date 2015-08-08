@@ -72,6 +72,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 - Description of an employee lifecycle
 - New employee
 	- [E_5.1.1 - Checklists for sales and project managers](E_5.1.1 - Checklists for sales and project managers.md)
-
 - Contracts
-	-	Contract for international hires
+	- Contract for project workers
+		- [E_10.1.1 - Contract for Danish hires](https://docs.google.com/a/jarboo.com/document/d/1s3Z1ZG86yH89LhQuEiJuHaGbN-sfgZ-GfGQHZnUkPtw/edit?usp=sharing)
+		- Contract for International hires
+	- Contract for employees
+		- Contract for Danish hires
+		- Contract for International hires
+		
