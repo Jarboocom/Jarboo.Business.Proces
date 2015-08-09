@@ -29,17 +29,26 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Tasks
 	 - Task lifecycle
 	 - Estimation
+	 	- [C_25.2.1 - How and when to estimate?](C_20.2.1 - How and when to estimate.md)
+	 	- [C_25.2.2 - Estimation templates](https://docs.google.com/a/jarboo.com/spreadsheets/d/1U-7aFyOT82NEt6BAB-ByhOXjfPxxASx8XuF0ccsUXnw/edit?usp=sharing)
 	 - Assigning people
 	 - Phases
 	 	- New tasks [not ready to estimate]
 	 	- New tasks [ready to estimate]
+	 		- [C_25.4.2.1 - Template](https://trello.com/c/mqQGMdiO/11-template)
 	 	- Discussion, questions and pending estimates
 	 	- Spec [project manager]
+	 		- [C_25.4.3.1 - Template](https://trello.com/c/2puSnp95/2-template)
 	 	- Architecture [architect]
+	 		- [C_25.4.4.1 - Template](https://trello.com/c/nMTuK7hV/1-template)
 	 	- Development [developer]
+	 		- [C_25.4.5.1 - Template](https://trello.com/c/TG2szRlA/3-template)
 	 	- In progress [developer]
 	 	- Code review [reviewer]
+	 		- [C_25.4.7.1 - Template](https://trello.com/c/UvsbU5WE/4-template)
 	 	- In test [tester]
+	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
+	 	- Customer verify [customer]
 	 	- Done
  - Resource planning
  - Release
