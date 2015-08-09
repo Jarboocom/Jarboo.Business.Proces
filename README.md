@@ -29,7 +29,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Tasks
 	 - Task lifecycle
 	 - Estimation
-	 	- [C_25.2.1 - How and when to estimate?](C_20.2.1 - How and when to estimate.md)
+	 	- [C_25.2.1 - How and when to estimate?](C_25.2.1 - How and when to estimate.md)
 	 	- [C_25.2.2 - Estimation templates](https://docs.google.com/a/jarboo.com/spreadsheets/d/1U-7aFyOT82NEt6BAB-ByhOXjfPxxASx8XuF0ccsUXnw/edit?usp=sharing)
 	 - Assigning people
 	 - Phases
