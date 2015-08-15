@@ -24,6 +24,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	      - Setup the team
 	  	     - C_15.1.1 - How to setup a team
 	  	     - [C_15.1.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
+     - Maintenance
+		 - Contracts
+	     	-	[C_20.1.1 - Contract for maintenance](https://docs.google.com/a/jarboo.com/document/d/1xRm9sxsZ8-yqSujUksJ4BLVPxPjBcZV_v8qKFcClmu8/edit?usp=sharing)
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
  - Tasks
