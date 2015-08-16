@@ -1,7 +1,7 @@
 Process document at Jarboo
 --------------------------
 
-**[C]ustomers lifecycle**
+**[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
  - Customer lifecycle
