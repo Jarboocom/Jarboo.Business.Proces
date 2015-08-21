@@ -54,6 +54,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
 	 	- Customer verify [customer]
 	 	- Done
+ - Daily follow-up
+ 	  - Project managers
+ 	  - Architects, developers, code reviewers and testers
  - Resource planning
  - Release
 
@@ -86,7 +89,6 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- [F_5.1.1 - Platforms we look for new talent](F_5.1.1 - Platforms we look for new talent.md)
  		- [F_5.1.2 - Upwork job template](F_5.1.2 - Upwork job template.md)
  	- Selection of a resource
- 		- Criteria
  		- Technology questions for new freelancers
  			- Android
  			- ASP.NET / C# / .NET
@@ -95,8 +97,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 			- PHP
  			- Ruby on Rails
  			- Wordpress
- 		- Selection on UpWork
- 	- Checklist question for new resources
+ 		- [F_5.2.2.1 - Criteria for selecting a freelancer](F_5.2.2.1 - Criteria for selecting a freelancer.md)
  - Verify freelancer
     - [F_10.1.1 - Testing a new freelancer](F_10.1.1 - Testing a new freelancer.md)
 
