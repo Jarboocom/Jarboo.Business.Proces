@@ -16,13 +16,14 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	 - Project types
 		 - Projects
 		 - Continuous development
+		 - Maintenance
 	 - Starting up a new project
 		 - Contracts
 	     	-	[Contract for projects](https://docs.google.com/document/d/1yzMxFjNmyVuYvhjKl9JAPY5PJw4uyfa0z6Y3TBnjVv4/edit)
 	     	-	[Contract for contious development](https://docs.google.com/document/d/1ODO_nuN6ugVhr4OOV9h7zHePRFlIFVJHrzA2pAhWgJw/edit)
 	      - [Risk analysis](https://docs.google.com/a/jarboo.com/spreadsheets/d/1rmwNK6t1gWMZjQQYN62aaZx6XJ46Ic22HKD3AyHuaIQ/edit?usp=drive_web)
 	      - Setup the team
-	  	     - C_15.1.1 - How to setup a team
+	  	     - [C_15.1.1 - How to setup a team](C_15.1.1 - How to setup a team.md)
 	  	     - [C_15.1.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
      - Maintenance
 		 - Contracts
@@ -56,7 +57,29 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Resource planning
  - Release
 
-**[F]reelancers**
+**[W]orkflow**
+ 
+ - A new resource
+	 - [F_15.1.1 - Introduction to Jarboo](F_15.1.1 - Introduction to Jarboo.md)
+	 - Introduction to workflow
+	 - Introduction to project
+	 - Introduction to subversion flow
+	 - First work
+
+ - Roles
+     - Project managers
+         - Description of a project manager
+     - Architects
+     	- Description of an architect
+ 	 - Developer
+ 	 	- Description of a developer
+ 	 - Code reviewer
+ 	 	- Description of a code reviewer
+	 - Tester
+	 	- Description of a tester
+
+
+**Finding [F]reelancers**
 
  - [F_1.0 - Description of freelancer lifecycle](F_1.0-Description of freelancer lifecycle.md)
  - Finding a resource
@@ -74,14 +97,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  			- Wordpress
  		- Selection on UpWork
  	- Checklist question for new resources
- - Training of resource
-	 - [F_15.1.1 - Introduction to Jarboo](F_15.1.1 - Introduction to Jarboo.md)
-	 - Introduction to workflow
-	 - Introduction to project
-	 - Introduction to subversion flow
-	 - First work
 
-**[E]mployees**
+
+**Finding [E]mployees**
 
 - Description of an employee lifecycle
 - New employee
