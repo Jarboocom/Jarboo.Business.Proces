@@ -64,7 +64,6 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - Introduction to workflow
 	 - Introduction to project
 	 - Introduction to subversion flow
-	 - First work
 
  - Roles
      - Project managers
@@ -87,6 +86,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- [F_5.1.1 - Platforms we look for new talent](F_5.1.1 - Platforms we look for new talent.md)
  		- [F_5.1.2 - Upwork job template](F_5.1.2 - Upwork job template.md)
  	- Selection of a resource
+ 		- Criteria
  		- Technology questions for new freelancers
  			- Android
  			- ASP.NET / C# / .NET
@@ -97,7 +97,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  			- Wordpress
  		- Selection on UpWork
  	- Checklist question for new resources
-
+ - Verify freelancer
+    - [F_10.1.1 - Testing a new freelancer](F_10.1.1 - Testing a new freelancer.md)
 
 **Finding [E]mployees**
 
