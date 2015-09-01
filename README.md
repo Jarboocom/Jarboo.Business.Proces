@@ -91,12 +91,12 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	- Selection of a resource
  		- Technology questions for new freelancers
  			- Android
- 			- ASP.NET / C# / .NET
+ 			- [F_5.2.1.5 - ASP.NET MVC](F_5.2.1.5 - ASPnet mvc.md)
 			- iOS 
 			- Joomla
 			- PHP
  			- Ruby on Rails
- 			- Wordpress
+ 			- [F_5.2.1.6 - Wordpress](F_5.2.1.6 - Wordpress.md)
  		- [F_5.2.2.1 - Criteria for selecting a freelancer](F_5.2.2.1 - Criteria for selecting a freelancer.md)
  - Verify freelancer
     - [F_10.1.1 - Testing a new freelancer](F_10.1.1 - Testing a new freelancer.md)
