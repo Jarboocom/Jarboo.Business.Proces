@@ -89,7 +89,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- [F_5.1.1 - Platforms we look for new talent](F_5.1.1 - Platforms we look for new talent.md)
  		- [F_5.1.2 - Upwork job template](F_5.1.2 - Upwork job template.md)
  	- Selection of a resource
- 		- Technology questions for new freelancers
+ 		- Messages for new freelancers
+ 			- [F_5.2.1.1 - Interview](F_5.2.1.1 - Interview.md)
  			- Android
  			- [F_5.2.1.5 - ASP.NET MVC](F_5.2.1.5 - ASPnet mvc.md)
 			- iOS 
