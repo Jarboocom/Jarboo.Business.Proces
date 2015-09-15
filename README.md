@@ -58,6 +58,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	  - Project managers
  	  - Architects, developers, code reviewers and testers
  - Resource planning
+ - Standard tasks
+ 	 - New customer
+ 	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
+ 	     - [C_40.1.2 - Test server](C_40.1.2 - Test server.md)
+ 	     - [C_40.1.3 - Backup setup](C_40.1.3 - Backup setup.md)
  - Release
 
 **[W]orkflow**
@@ -111,7 +116,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	- Contract for project workers
 		- [E_10.1.1 - Contract for Danish hires](https://docs.google.com/a/jarboo.com/document/d/1s3Z1ZG86yH89LhQuEiJuHaGbN-sfgZ-GfGQHZnUkPtw/edit?usp=sharing)
 		- Contract for International hires
-	- Contract for employees
+	- Contract for regular employees
 		- Contract for Danish hires
 		- Contract for International hires
 		
