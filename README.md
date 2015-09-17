@@ -31,7 +31,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
  - Tasks
-	 - Task lifecycle
+	 - [C_25.1.1 - Task lifecycle](C_25.1.1 - Task lifecycle.md)
 	 - Estimation
 	 	- [C_25.2.1 - How and when to estimate?](C_25.2.1 - How and when to estimate.md)
 	 	- [C_25.2.2 - Estimation templates](https://docs.google.com/a/jarboo.com/spreadsheets/d/1U-7aFyOT82NEt6BAB-ByhOXjfPxxASx8XuF0ccsUXnw/edit?usp=sharing)
