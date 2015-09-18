@@ -1,6 +1,11 @@
 Process document at Jarboo
 --------------------------
 
+**[J]arboo info**
+
+- Definitions and practical
+     - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
+
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
@@ -15,9 +20,10 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Project
  	 - Project types
  	 	 - [C_15.1.1 - Overview of project types](C_15.1.1 - Overview of project types.md)
-		 - Projects
-		 - Continuous development
-		 - Maintenance
+ 	 	 - [C_15.1.2 - Jarboo Consulting](C_15.1.2 - Jarboo Consulting.md)
+		 - [C_15.1.3 - Jarboo Development](C_15.1.3 - Jarboo Development.md)
+		 - [C_15.1.4 - Jarboo Deployment](C_15.1.4 - Jarboo Deployment.md)
+		 - [C_15.1.5 - Jarboo Maintenance](C_15.1.5 - Jarboo Maintenance.md)
 	 - Starting up a new project
 		 - Contracts
 	     	-	[Contract for projects](https://docs.google.com/document/d/1yzMxFjNmyVuYvhjKl9JAPY5PJw4uyfa0z6Y3TBnjVv4/edit)
