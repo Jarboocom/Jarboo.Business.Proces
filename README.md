@@ -79,18 +79,17 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - Introduction to workflow
 	 - Introduction to project
 	 - Introduction to subversion flow
-
- - Roles
+ - [F_20.1 Roles - Jarboo Roles](F_20.1 Roles - Jarboo Roles.md)
      - Project managers
-         - Description of a project manager
+         - [F_20.2.1 - Description of a project manager](F_20.2.1 - Description of a project manager.md)
      - Architects
-     	- Description of an architect
+     	- [F_20.2.2 - Description of an architect](F_20.2.2 - Description of an architect.md)
  	 - Developer
- 	 	- Description of a developer
+ 	 	- [F_20.2.3 - Description of a developer](F_20.2.3 - Description of a developer.md)
  	 - Code reviewer
- 	 	- Description of a code reviewer
+ 	 	- [F_20.2.4 - Description of a code reviewer](F_20.2.4 - Description of a code reviewer.md)
 	 - Tester
-	 	- Description of a tester
+	 	- [F_20.2.5 - Description of a tester](F_20.2.5 - Description of a tester.md)
 
 
 **Finding [F]reelancers**
