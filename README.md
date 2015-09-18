@@ -1,6 +1,11 @@
 Process document at Jarboo
 --------------------------
 
+**[J]arboo info**
+
+- Definitions and practical
+     - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
+
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
@@ -14,24 +19,26 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - C_: Follow-up on an opportunity
  - Project
  	 - Project types
-		 - Projects
-		 - Continuous development
-		 - Maintenance
+ 	 	 - [C_15.1.1 - Overview of project types](C_15.1.1 - Overview of project types.md)
+ 	 	 - [C_15.1.2 - Jarboo Consulting](C_15.1.2 - Jarboo Consulting.md)
+		 - [C_15.1.3 - Jarboo Development](C_15.1.3 - Jarboo Development.md)
+		 - [C_15.1.4 - Jarboo Deployment](C_15.1.4 - Jarboo Deployment.md)
+		 - [C_15.1.5 - Jarboo Maintenance](C_15.1.5 - Jarboo Maintenance.md)
 	 - Starting up a new project
 		 - Contracts
 	     	-	[Contract for projects](https://docs.google.com/document/d/1yzMxFjNmyVuYvhjKl9JAPY5PJw4uyfa0z6Y3TBnjVv4/edit)
 	     	-	[Contract for contious development](https://docs.google.com/document/d/1ODO_nuN6ugVhr4OOV9h7zHePRFlIFVJHrzA2pAhWgJw/edit)
 	      - [Risk analysis](https://docs.google.com/a/jarboo.com/spreadsheets/d/1rmwNK6t1gWMZjQQYN62aaZx6XJ46Ic22HKD3AyHuaIQ/edit?usp=drive_web)
 	      - Setup the team
-	  	     - [C_15.1.1 - How to setup a team](C_15.1.1 - How to setup a team.md)
-	  	     - [C_15.1.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
+	  	     - [C_15.2.1 - How to setup a team](C_15.2.1 - How to setup a team.md)
+	  	     - [C_15.2.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
      - Maintenance
 		 - Contracts
 	     	-	[C_20.1.1 - Contract for maintenance](https://docs.google.com/a/jarboo.com/document/d/1xRm9sxsZ8-yqSujUksJ4BLVPxPjBcZV_v8qKFcClmu8/edit?usp=sharing)
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
  - Tasks
-	 - Task lifecycle
+	 - [C_25.1.1 - Task lifecycle](C_25.1.1 - Task lifecycle.md)
 	 - Estimation
 	 	- [C_25.2.1 - How and when to estimate?](C_25.2.1 - How and when to estimate.md)
 	 	- [C_25.2.2 - Estimation templates](https://docs.google.com/a/jarboo.com/spreadsheets/d/1U-7aFyOT82NEt6BAB-ByhOXjfPxxASx8XuF0ccsUXnw/edit?usp=sharing)
@@ -54,7 +61,15 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
 	 	- Customer verify [customer]
 	 	- Done
+ - Daily follow-up
+ 	  - Project managers
+ 	  - Architects, developers, code reviewers and testers
  - Resource planning
+ - Standard tasks
+ 	 - New customer
+ 	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
+ 	     - [C_40.1.2 - Test server](C_40.1.2 - Test server.md)
+ 	     - [C_40.1.3 - Backup setup](C_40.1.3 - Backup setup.md)
  - Release
 
 **[W]orkflow**
@@ -64,19 +79,17 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - Introduction to workflow
 	 - Introduction to project
 	 - Introduction to subversion flow
-	 - First work
-
- - Roles
+ - [F_20.1 Roles - Jarboo Roles](F_20.1 Roles - Jarboo Roles.md)
      - Project managers
-         - Description of a project manager
+         - [F_20.2.1 - Description of a project manager](F_20.2.1 - Description of a project manager.md)
      - Architects
-     	- Description of an architect
+     	- [F_20.2.2 - Description of an architect](F_20.2.2 - Description of an architect.md)
  	 - Developer
- 	 	- Description of a developer
+ 	 	- [F_20.2.3 - Description of a developer](F_20.2.3 - Description of a developer.md)
  	 - Code reviewer
- 	 	- Description of a code reviewer
+ 	 	- [F_20.2.4 - Description of a code reviewer](F_20.2.4 - Description of a code reviewer.md)
 	 - Tester
-	 	- Description of a tester
+	 	- [F_20.2.5 - Description of a tester](F_20.2.5 - Description of a tester.md)
 
 
 **Finding [F]reelancers**
@@ -87,17 +100,18 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- [F_5.1.1 - Platforms we look for new talent](F_5.1.1 - Platforms we look for new talent.md)
  		- [F_5.1.2 - Upwork job template](F_5.1.2 - Upwork job template.md)
  	- Selection of a resource
- 		- Technology questions for new freelancers
+ 		- Messages for new freelancers
+ 			- [F_5.2.1.1 - Interview](F_5.2.1.1 - Interview.md)
  			- Android
- 			- ASP.NET / C# / .NET
+ 			- [F_5.2.1.5 - ASP.NET MVC](F_5.2.1.5 - ASPnet mvc.md)
 			- iOS 
 			- Joomla
 			- PHP
  			- Ruby on Rails
- 			- Wordpress
- 		- Selection on UpWork
- 	- Checklist question for new resources
-
+ 			- [F_5.2.1.6 - Wordpress](F_5.2.1.6 - Wordpress.md)
+ 		- [F_5.2.2.1 - Criteria for selecting a freelancer](F_5.2.2.1 - Criteria for selecting a freelancer.md)
+ - Verify freelancer
+    - [F_10.1.1 - Testing a new freelancer](F_10.1.1 - Testing a new freelancer.md)
 
 **Finding [E]mployees**
 
@@ -108,7 +122,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	- Contract for project workers
 		- [E_10.1.1 - Contract for Danish hires](https://docs.google.com/a/jarboo.com/document/d/1s3Z1ZG86yH89LhQuEiJuHaGbN-sfgZ-GfGQHZnUkPtw/edit?usp=sharing)
 		- Contract for International hires
-	- Contract for employees
+	- Contract for regular employees
 		- Contract for Danish hires
 		- Contract for International hires
 		
