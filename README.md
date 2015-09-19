@@ -113,6 +113,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  - Verify freelancer
     - [F_10.1.1 - Testing a new freelancer](F_10.1.1 - Testing a new freelancer.md)
 
+
 **Finding [E]mployees**
 
 - Description of an employee lifecycle
@@ -125,4 +126,20 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	- Contract for regular employees
 		- Contract for Danish hires
 		- Contract for International hires
-		
+
+**Jarboo [A]cademy**
+
+- Introduction
+- Jarboo flow
+	- Registering time
+	- Availability
+- Git and Sourcetree
+- Role specific
+     - Project managers
+     - Architects
+     - Developers
+     	- [A_20.3.3 - Miscellaneous](A_20.3.3 - Miscellaneous.md)
+     - Code reviewers
+     - Testers
+
+	 	
