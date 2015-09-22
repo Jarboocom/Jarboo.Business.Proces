@@ -134,6 +134,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	- Registering time
 	- Availability
 - Git and Sourcetree
+	- [A_15.1.1 - Git flow](A_15.1.1 - Git flow.md)
+	- [A_15.1.2 - Git releases](A_15.1.2 - Releases.md)
 - Role specific
      - Project managers
      - Architects
