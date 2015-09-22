@@ -26,9 +26,9 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 		 - [C_15.1.5 - Jarboo Maintenance](C_15.1.5 - Jarboo Maintenance.md)
 	 - Starting up a new project
 		 - Contracts
-	     	-	[Contract for projects](https://docs.google.com/document/d/1yzMxFjNmyVuYvhjKl9JAPY5PJw4uyfa0z6Y3TBnjVv4/edit)
-	     	-	[Contract for contious development](https://docs.google.com/document/d/1ODO_nuN6ugVhr4OOV9h7zHePRFlIFVJHrzA2pAhWgJw/edit)
-	      - [Risk analysis](https://docs.google.com/a/jarboo.com/spreadsheets/d/1rmwNK6t1gWMZjQQYN62aaZx6XJ46Ic22HKD3AyHuaIQ/edit?usp=drive_web)
+	     	-	[Contract for projects](C_20.1.1.1 - Contract for projects.md)
+	     	-	[Contract for contious development](C_20.1.1.2 - Contract for contious development.md)
+	      - [Risk analysis](C_20.2.1 - Risk analysis.md)
 	      - Setup the team
 	  	     - [C_15.2.1 - How to setup a team](C_15.2.1 - How to setup a team.md)
 	  	     - [C_15.2.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
@@ -41,7 +41,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - [C_25.1.1 - Task lifecycle](C_25.1.1 - Task lifecycle.md)
 	 - Estimation
 	 	- [C_25.2.1 - How and when to estimate?](C_25.2.1 - How and when to estimate.md)
-	 	- [C_25.2.2 - Estimation templates](https://docs.google.com/a/jarboo.com/spreadsheets/d/1U-7aFyOT82NEt6BAB-ByhOXjfPxxASx8XuF0ccsUXnw/edit?usp=sharing)
+	 	- [C_25.2.2 - Estimation templates](C_25.2.2 - Estimation templates.md)
 	 - Assigning people
 	 - Phases
 	 	- New tasks [not ready to estimate]
@@ -103,6 +103,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  		- Messages for new freelancers
  			- [F_5.2.1.1 - Interview](F_5.2.1.1 - Interview.md)
  			- Android
+ 			- [F_5.2.1.4 - Django](F_5.2.1.4 - Django.md)
  			- [F_5.2.1.5 - ASP.NET MVC](F_5.2.1.5 - ASPnet mvc.md)
 			- iOS 
 			- Joomla
