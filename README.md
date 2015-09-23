@@ -4,7 +4,7 @@ Process document at Jarboo
 **[J]arboo info**
 
 - Definitions and practical
-     - [**J_1.1 - Terms and words**][1]
+     - [J_1.1 - Terms and words][1]
 
 - Jarboo proces
 	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
@@ -68,6 +68,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 	- Done
  - Deployment and releases
  	- [C_30.1.1 - How we deploy](C_30.1.1 - How we deploy.md)
+ 		- [C_30.1.5 - Version numbers](C_30.1.5 - Version numbers.md)
  - Standard tasks
  	 - New customer
  	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
