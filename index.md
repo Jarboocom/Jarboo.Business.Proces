@@ -1,7 +1,3 @@
----
-layout: index
----
-
 Process document at Jarboo
 --------------------------
 
@@ -11,7 +7,7 @@ Process document at Jarboo
      - [J_1.1 - Terms and words][1]
 
 - Jarboo proces
-	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
+	 - [J_20.1 - What is Jarboo Proces](docs/J_20.1 - What is Jarboo Proces.md)
 	 - [J_20.2 - How to modify Jarboo Process](J_20.2 - How to modify Jarboo Process.md)
 
 **[C]ustomers lifecycle** 
@@ -159,3 +155,4 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      - [Test](docs/test.md)
 
 [1]: docs/J_1.1-TermsAndWords.md
+
