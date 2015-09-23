@@ -68,6 +68,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 	- Done
  - Deployment and releases
  	- [C_30.1.1 - How we deploy](C_30.1.1 - How we deploy.md)
+ 		- [C_30.1.5 - Version numbers](C_30.1.5 - Version numbers.md)
  - Standard tasks
  	 - New customer
  	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
