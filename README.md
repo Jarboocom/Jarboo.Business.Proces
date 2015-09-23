@@ -34,9 +34,10 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	  	     - [C_15.2.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
      - Maintenance
 		 - Contracts
-	     	-	[C_20.1.1 - Contract for maintenance](https://docs.google.com/a/jarboo.com/document/d/1xRm9sxsZ8-yqSujUksJ4BLVPxPjBcZV_v8qKFcClmu8/edit?usp=sharing)
+	     	-	[C_20.1.1 - Contract for Jarboo maintenance](C_20.1.1 - Contract for maintenance.md)
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
+	  	 - [C_20.2.1 - Setup new resource in Jira](C_20.2.1 - Setup new resource in Jira.md)
  - Tasks
 	 - [C_25.1.1 - Task lifecycle](C_25.1.1 - Task lifecycle.md)
 	 - Estimation
