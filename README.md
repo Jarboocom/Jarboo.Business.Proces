@@ -4,7 +4,7 @@ Process document at Jarboo
 **[J]arboo info**
 
 - Definitions and practical
-     - [**J_1.1 - Terms and words**][1]
+     - [J_1.1 - Terms and words][1]
 
 - Jarboo proces
 	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
