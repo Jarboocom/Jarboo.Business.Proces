@@ -6,10 +6,10 @@ Process document at Jarboo
 - Definitions and practical
      - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
 
-
 - Jarboo proces
 	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
 	 - [J_20.2 - How to modify Jarboo Process](J_20.2 - How to modify Jarboo Process.md)
+
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
@@ -66,6 +66,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
 	 	- Customer verify [customer]
 	 	- Done
+ - Deployment and releases
+ 	- [C_30.1.1 - How we deploy](C_30.1.1 - How we deploy.md)
  - Standard tasks
  	 - New customer
  	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
@@ -139,7 +141,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 - Jarboo flow
 	- Registering time
 	- Availability
-- Git and Sourcetree
+- [Git and Sourcetree](A_15.1 - Git intro.md)
 	- [A_15.1.1 - Git flow](A_15.1.1 - Git flow.md)
 	- [A_15.1.2 - Git releases](A_15.1.2 - Releases.md)
 - Role specific
