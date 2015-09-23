@@ -6,6 +6,10 @@ Process document at Jarboo
 - Definitions and practical
      - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
 
+
+- Jarboo proces
+	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
+	 - [J_20.2 - How to modify Jarboo Process](J_20.2 - How to modify Jarboo Process.md)
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
@@ -62,10 +66,6 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
 	 	- Customer verify [customer]
 	 	- Done
- - Daily follow-up
- 	  - Project managers
- 	  - Architects, developers, code reviewers and testers
- - Resource planning
  - Standard tasks
  	 - New customer
  	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
@@ -91,7 +91,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	 	- [F_20.2.4 - Description of a code reviewer](F_20.2.4 - Description of a code reviewer.md)
 	 - Tester
 	 	- [F_20.2.5 - Description of a tester](F_20.2.5 - Description of a tester.md)
-
+ - Running project
+ 	  - Follow-ups
+ 	  	- [W_30.1.1 - Followup for projectt managers](W_30.1.1 - Followup for projectt managers.md)
+ 	  - Architects, developers, code reviewers and testers
+ - Resource planning
 
 **Finding [F]reelancers**
 
