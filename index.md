@@ -10,6 +10,10 @@ Process document at Jarboo
 - Definitions and practical
      - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
 
+- Jarboo proces
+	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
+	 - [J_20.2 - How to modify Jarboo Process](J_20.2 - How to modify Jarboo Process.md)
+
 **[C]ustomers lifecycle** 
 All documents regarding customers are prepended C_, example C_4.1 Tasks. 
 
@@ -38,9 +42,10 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	  	     - [C_15.2.2 - The team database](https://docs.google.com/spreadsheets/d/1iMBE4RDVq6SeZAGZ268X_FbVldlyAxSb5JGh0cn6H-4/edit#gid=225165076)
      - Maintenance
 		 - Contracts
-	     	-	[C_20.1.1 - Contract for maintenance](https://docs.google.com/a/jarboo.com/document/d/1xRm9sxsZ8-yqSujUksJ4BLVPxPjBcZV_v8qKFcClmu8/edit?usp=sharing)
+	     	-	[C_20.1.1 - Contract for Jarboo maintenance](C_20.1.1 - Contract for maintenance.md)
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](C_20.1.1 - Checklist on starting working on a project.md)
+	  	 - [C_20.2.1 - Setup new resource in Jira](C_20.2.1 - Setup new resource in Jira.md)
  - Tasks
 	 - [C_25.1.1 - Task lifecycle](C_25.1.1 - Task lifecycle.md)
 	 - Estimation
@@ -65,10 +70,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 		- [C_25.4.8.1 - Template](https://trello.com/c/QvyoHh0N/5-template)
 	 	- Customer verify [customer]
 	 	- Done
- - Daily follow-up
- 	  - Project managers
- 	  - Architects, developers, code reviewers and testers
- - Resource planning
+ - Deployment and releases
+ 	- [C_30.1.1 - How we deploy](C_30.1.1 - How we deploy.md)
  - Standard tasks
  	 - New customer
  	     - [C_40.1.1 - Migrate code into cloud](C_40.1.1 - Migrate code into cloud.md)
@@ -94,7 +97,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
  	 	- [F_20.2.4 - Description of a code reviewer](F_20.2.4 - Description of a code reviewer.md)
 	 - Tester
 	 	- [F_20.2.5 - Description of a tester](F_20.2.5 - Description of a tester.md)
-
+ - Running project
+ 	  - Follow-ups
+ 	  	- [W_30.1.1 - Followup for projectt managers](W_30.1.1 - Followup for projectt managers.md)
+ 	  - Architects, developers, code reviewers and testers
+ - Resource planning
 
 **Finding [F]reelancers**
 
@@ -138,7 +145,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 - Jarboo flow
 	- Registering time
 	- Availability
-- Git and Sourcetree
+- [Git and Sourcetree](A_15.1 - Git intro.md)
 	- [A_15.1.1 - Git flow](A_15.1.1 - Git flow.md)
 	- [A_15.1.2 - Git releases](A_15.1.2 - Releases.md)
 - Role specific
