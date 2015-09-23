@@ -4,7 +4,7 @@ Process document at Jarboo
 **[J]arboo info**
 
 - Definitions and practical
-     - [J_1.1 - Terms and words](J_1.1 - Terms and words.md)
+     - [**J_1.1 - Terms and words**][1]
 
 - Jarboo proces
 	 - [J_20.1 - What is Jarboo Proces](J_20.1 - What is Jarboo Proces.md)
@@ -153,4 +153,4 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      - Testers
      - [Test](test.md)
 
-	 	
+[1]: docs/J_1.1-TermsAndWords.md
