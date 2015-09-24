@@ -152,6 +152,5 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      	- [A_20.3.3 - Miscellaneous](docs/A_20.3.3 - Miscellaneous.md)
      - Code reviewers
      - Testers
-      - [This is testing](docs/testing.md)
 [1]: docs/J_1.1-TermsAndWords.md
 
