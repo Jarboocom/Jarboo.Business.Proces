@@ -8,6 +8,11 @@ layout: index
 ---
 
 
+---
+layout: index
+---
+
+
 Followup for project managers
 ==============
 
