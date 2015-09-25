@@ -44,7 +44,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	  	 - [C_20.2.1 - Setup new resource in Jira](docs/C_20.2.1 - Setup new resource in Jira.md)
  - Tasks
 	 - [C_25.1.1 - Task lifecycle](docs/C_25.1.1 - Task lifecycle.md)
-	 - Estimation
+	 - [C_25.2 - Estimates](docs/C_25.2 - Estimation.md)
 	 	- [C_25.2.1 - How and when to estimate?](docs/C_25.2.1 - How and when to estimate.md)
 	 	- [C_25.2.2 - Estimation templates](docs/C_25.2.2 - Estimation templates.md)
 	 - Assigning people
@@ -139,8 +139,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 **Jarboo [A]cademy**
 
 - Introduction
+	- [A_1.1.1 - What is Jarboo](A_1.1.1 - What is Jarboo.md)
+
 - Jarboo flow
-	- Registering time
+	- [A_5.1.2 - Working in Jira](A_5.1.2 - Working in Jira.md)
+	- [A_5.1.3 - Time tracking](A_5.1.3 - Time tracking.md)
 	- Availability
 - [Git and Sourcetree](docs/A_15.1 - Git intro.md)
 	- [A_15.1.1 - Git flow](docs/A_15.1.1 - Git flow.md)
