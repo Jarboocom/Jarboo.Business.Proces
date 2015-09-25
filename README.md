@@ -4,7 +4,7 @@ Process document at Jarboo
 **[J]arboo info**
 
 - Definitions and practical
-     - [J_1.1 - Terms and words][1]
+     - [J_1.1 - Terms and words][docs/J_1.1-TermsAndWords.md]
 
 - Jarboo proces
 	 - [J_20.1 - What is Jarboo Proces](docs/J_20.1 - What is Jarboo Proces.md)
@@ -149,8 +149,8 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      - Project managers
      - Architects
      - Developers
-     	- [A_20.3.3 - Miscellaneous](docs/A_20.3.3 - Miscellaneous.md)
+     	- [A_20.3.1 - Intro to developers](docs/A_20.3.1 - Intro to developers.md)
+     	- [A_20.3.3 - Miscellaneous](docs/A_20.3.3 - Miscellaneous.md)     
      - Code reviewers
      - Testers
-[1]: docs/J_1.1-TermsAndWords.md
 
