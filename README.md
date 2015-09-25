@@ -140,7 +140,6 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 
 - Introduction
 	- [A_1.1.1 - What is Jarboo](docs/A_1.1.1 - What is Jarboo.md)
-
 - Jarboo flow
 	- [A_5.1.2 - Working in Jira](docs/A_5.1.2 - Working in Jira.md)
 	- [A_5.1.3 - Time tracking](docs/A_5.1.3 - Time tracking.md)
@@ -154,10 +153,6 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
      - Developers
      	- [A_20.3.1 - Intro to developers](docs/A_20.3.1 - Intro to developers.md)
      	- [A_20.3.3 - Miscellaneous](docs/A_20.3.3 - Miscellaneous.md)
-     - Code reviewers
-     - Testers
-
-     	
      - Code reviewers
      - Testers
 
