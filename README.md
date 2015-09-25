@@ -139,11 +139,11 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 **Jarboo [A]cademy**
 
 - Introduction
-	- [A_1.1.1 - What is Jarboo](A_1.1.1 - What is Jarboo.md)
+	- [A_1.1.1 - What is Jarboo](docs/A_1.1.1 - What is Jarboo.md)
 
 - Jarboo flow
-	- [A_5.1.2 - Working in Jira](A_5.1.2 - Working in Jira.md)
-	- [A_5.1.3 - Time tracking](A_5.1.3 - Time tracking.md)
+	- [A_5.1.2 - Working in Jira](docs/A_5.1.2 - Working in Jira.md)
+	- [A_5.1.3 - Time tracking](docs/A_5.1.3 - Time tracking.md)
 	- Availability
 - [Git and Sourcetree](docs/A_15.1 - Git intro.md)
 	- [A_15.1.1 - Git flow](docs/A_15.1.1 - Git flow.md)
