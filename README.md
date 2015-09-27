@@ -42,6 +42,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 	 - Start working on a project
 	  	 - [C_20.1.1 - Checklist on starting working on a project](docs/C_20.1.1 - Checklist on starting working on a project.md)
 	  	 - [C_20.2.1 - Setup new resource in Jira](docs/C_20.2.1 - Setup new resource in Jira.md)
+	  	 - [C_20.3.1 - Add new project in Jira](docs/C_20.3.1 - Add new project in Jira.md)
  - Tasks
 	 - [C_25.1.1 - Task lifecycle](docs/C_25.1.1 - Task lifecycle.md)
 	 - [C_25.2 - Estimates](docs/C_25.2 - Estimation.md)
@@ -143,6 +144,7 @@ All documents regarding customers are prepended C_, example C_4.1 Tasks.
 - Jarboo flow
 	- [A_5.1.2 - Working in Jira](docs/A_5.1.2 - Working in Jira.md)
 	- [A_5.1.3 - Time tracking](docs/A_5.1.3 - Time tracking.md)
+	- [A_5.1.4 - Communication](docs/A_5.1.4 - Communication.md)
 	- Availability
 - [Git and Sourcetree](docs/A_15.1 - Git intro.md)
 	- [A_15.1.1 - Git flow](docs/A_15.1.1 - Git flow.md)
